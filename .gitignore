@@ -1,0 +1,5 @@
+/node_modules
+not-for-git.js
+*.csv
+.~lock.*
+/result_json
